@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="DoWhile/DoWhile.csproj" Id="9ed6dcb1-1b57-40cb-8a05-6a469f3e1f23" />
+  <Project Path="EstruturaIfElse/EstruturaIfElse.csproj" Id="e602ff7d-5836-4b0e-81a3-6b971509f6af" />
+  <Project Path="EstruturasdeRepetição/EstruturasdeRepetição.csproj" Id="8d041d45-bba1-4bb9-8786-005ec151ce5d" />
+  <Project Path="EstruturaSwitch/EstruturaSwitch.csproj" Id="2bb402d6-4ffd-434f-9805-75a20bb8f6db" />
+  <Project Path="EstrututasDeControle/EstruturaIf.csproj" />
+  <Project Path="ExerciciosDeEstruturasDeControle/ExerciciosDeEstruturasDeControle.csproj" Id="1f68f6d7-0555-4400-a31b-b2d708f62580" />
+  <Project Path="LoopFor/LoopFor.csproj" Id="763438eb-b6e8-41b9-ab50-54ff54999d6a" />
+  <Project Path="While_1/While_1.csproj" Id="37e8bad1-32c8-4ae8-aef8-e07a6e2a139e" />
+  <Project Path="While_2/While_2.csproj" Id="b74df774-0fe0-401b-b765-8c575f6dee5c" />
+</Solution>
