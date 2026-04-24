@@ -267,7 +267,7 @@ while (true)
 int numero_1;
 int numero_2;
 string operando;
-float respost = 0; // O "0" aqui é vital para sumir o erro vermelho
+float respost = 0; 
 
 Console.Write("\nInforme o primeiro número: \t");
 numero_1 = Convert.ToInt32(Console.ReadLine());
@@ -295,6 +295,6 @@ switch (operando)
     default:
         Console.WriteLine("Operador inválido.");
         break;
-} // Verifique se esta chave de fechamento existe!
+} 
 
 Console.WriteLine("O resultado é: " + respost);

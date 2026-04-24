@@ -1,9 +1,9 @@
 ﻿Console.WriteLine("Estrutura If Else");
 
-/*Console.WriteLine("Digite sua nota: ");
-double nota = Convert.ToDouble(Console.ReadLine());
+Console.WriteLine("Digite sua nota: ");
+double aprovacao = Convert.ToDouble(Console.ReadLine());
 
-if(nota > 5)
+if(aprovacao > 5)
 {
     Console.WriteLine("Aprovado");
 }
@@ -32,7 +32,7 @@ else
 {
     Console.WriteLine("X é igual a Y");
 }
-*/
+
 
 
 Console.WriteLine("Digite a nota do aluno: \t");

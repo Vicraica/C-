@@ -17,5 +17,8 @@
   <Project Path="OperadorTernario/17_OperadorTernario.csproj" Id="c8fcb5c4-d276-44c4-be3f-6ee8b8fb60ba" />
   <Project Path="PrecedênciaEAssociatividade/15_PrecedênciaEAssociatividade.csproj" Id="e7a500c0-2132-463a-b98e-badd8304104e" />
   <Project Path="TipoDateTime/02_DadosTipoDateTime.csproj" />
+  <Project Path="TiposDeDados1/TiposDeDados1/TiposDeDados1.csproj" />
+  <Project Path="TiposDeDados2/TiposDeDados2.csproj" />
+  <Project Path="TiposDeDados3/TiposDeDados3.csproj" />
   <Project Path="TiposdeDados4/01_DadosTipoReferencia.csproj" />
 </Solution>

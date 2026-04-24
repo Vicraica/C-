@@ -1,4 +1,4 @@
-﻿/*Console.WriteLine("Estrutura de controle IF\n");
+﻿Console.WriteLine("Estrutura de controle IF\n");
 
 Console.WriteLine("Você é um cliente especial? (S/N)\t");
 string clienteEspecial = Console.ReadLine();
@@ -14,7 +14,7 @@ bool clienteEspecial_1 = Convert.ToBoolean(Console.ReadLine());
 if (clienteEspecial_1)
 {
     Console.WriteLine("Desconto de 10%");
-} */
+} 
 
 Console.WriteLine("Digite o valor de X ");
 int x = Convert.ToInt32(Console.ReadLine());
