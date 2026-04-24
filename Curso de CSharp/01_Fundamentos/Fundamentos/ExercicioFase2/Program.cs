@@ -1,6 +1,6 @@
 ﻿using System.Runtime.InteropServices;
 
-/*Console.WriteLine("Exercício fase 2 de C#");
+Console.WriteLine("Exercício fase 2 de C#");
 
 var nome = "Paulo";
 var idade = 17;
@@ -70,32 +70,20 @@ Console.WriteLine(resultado);
 // V, V, F, V, F, F, F, ? ,V, V, V
 
 Console.WriteLine("Digite um valor: ");
-int x = Convert.ToInt32(Console.ReadLine());
+int v = Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine("Digite um valor: ");
-int y = Convert.ToInt32(Console.ReadLine());
-
-var resultadox = (x % 2 == 0) ? "número par" : "número ímpar";
-var resultadoy = (y % 2 == 0) ? "número par" : "número ímpar";
-
-Console.WriteLine($"O {x} é um {resultadox}.");
-Console.WriteLine($"O {y} é um {resultadoy}."); 
-
-Console.WriteLine("Digite um valor: ");
-int a = Convert.ToInt32(Console.ReadLine());
-
-Console.WriteLine(-6 + a * 5);
-Console.WriteLine((13-2)*a);
-Console.WriteLine((a + -2)*(20/a));
-Console.WriteLine((12 + a)*(a - 4));
-Console.WriteLine(Math.Pow(3,2) + a +10);
-Console.WriteLine(Math.PI * Math.Pow(a,2));
+Console.WriteLine(-6 + v * 5);
+Console.WriteLine((13-2)*v);
+Console.WriteLine((v + -2)*(20/v));
+Console.WriteLine((12 + v)*(v - 4));
+Console.WriteLine(Math.Pow(3,2) + v +10);
+Console.WriteLine(Math.PI * Math.Pow(v,2));
 
 /*int y = 5;
 int resultado_y = (y++) + y + (++y);
 Console.WriteLine(y); */
 
-/*Console.WriteLine("Digite a temperatuda em grau Celsius: ");
+Console.WriteLine("Digite a temperatuda em grau Celsius: ");
 double tempC = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine(tempC + "°");
 
@@ -103,7 +91,7 @@ double K = tempC + 273;
 double F = (tempC * 9 / 5) + 32;
 
 Console.WriteLine($"Em Kelvin: {K}");
-Console.WriteLine($"Em Farhenheit: {F}");*/
+Console.WriteLine($"Em Farhenheit: {F}");
 
 
 

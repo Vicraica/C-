@@ -1,4 +1,4 @@
-﻿// O nullable reference types serve para indicar que uma variável de referência pode aceitar valores nulos
+﻿// O nullable reference type serve para indicar que uma variável de referência pode aceitar valores nulos
 // ,ajudando a evitar erros de referência nula em tempo de execução.
 
 string a = null; // Aviso de compilação: possível atribuição de valor nulo a uma variável não anulável

@@ -1,21 +1,21 @@
 <Solution>
-  <Project Path="ClasseMath/ClasseMath.csproj" Id="dec7e720-e82e-4abc-9907-cbcdf91bcdf7" />
-  <Project Path="Constantes/Constantes.csproj" Id="9a82d186-dc00-45c8-8409-e981e8152c41" />
-  <Project Path="ConversaoDeTipos1/ConversaoDeTipos1.csproj" Id="b084c017-fdfe-4486-80f4-41db6f47f7bd" />
-  <Project Path="ConversãoDeTipos/ConversãoDeTipos.csproj" Id="106c9d79-b3a6-4766-9c86-7d8d0dafa10f" />
-  <Project Path="EntradaDeDados/EntradaDeDados.csproj" Id="20a1cd66-6d16-452b-8874-9a3b8a8c40e2" />
+  <Project Path="ClasseMath/08_OperadoresAritmeticos.csproj" Id="dec7e720-e82e-4abc-9907-cbcdf91bcdf7" />
+  <Project Path="Constantes/11_Constantes.csproj" Id="9a82d186-dc00-45c8-8409-e981e8152c41" />
+  <Project Path="ConversaoDeTipos1/06_ConversaoDeTiposII.csproj" Id="b084c017-fdfe-4486-80f4-41db6f47f7bd" />
+  <Project Path="ConversãoDeTipos/05_ConversãoDeTipos.csproj" Id="106c9d79-b3a6-4766-9c86-7d8d0dafa10f" />
+  <Project Path="EntradaDeDados/07_EntradaDeDados.csproj" Id="20a1cd66-6d16-452b-8874-9a3b8a8c40e2" />
   <Project Path="ExercicioFase2/ExercicioFase2.csproj" Id="41758e75-703a-42e3-bcbf-c3f0cf622350" />
   <Project Path="ExercícioFase1/ExercícioFase1.csproj" />
-  <Project Path="FormataçãoDeSaídaDeDados/FormataçãoDeSaídaDeDados.csproj" />
-  <Project Path="Incremento_Drecremento/Incremento_Drecremento.csproj" Id="05b23694-1c9d-4971-ad4e-c8406e56868b" />
-  <Project Path="InferênciaDeTipos/InferênciaDeTipos.csproj" Id="6effc3cf-0502-40c3-a7d6-fc2d4ba2bb34" />
-  <Project Path="NullabeType/NullabeType.csproj" />
-  <Project Path="NullableReferenceType/NullableReferenceType.csproj" Id="42cecd84-c556-4ecb-be0c-f82d86327253" />
-  <Project Path="OperadoresDeAtribuição/OperadoresDeAtribuição.csproj" Id="83972c6e-cf46-4f92-b7e0-b51f74193161" />
-  <Project Path="OperadoresLógicos/OperadoresLógicos.csproj" Id="35f03fb9-5a1f-4389-a799-c35bc48ce436" />
-  <Project Path="OperadoresRelacionais/OperadoresRelacionais.csproj" Id="20ab4c16-6e71-48a0-88b7-a16c190821cf" />
-  <Project Path="OperadorTernario/OperadorTernario.csproj" Id="c8fcb5c4-d276-44c4-be3f-6ee8b8fb60ba" />
-  <Project Path="PrecedênciaEAssociatividade/PrecedênciaEAssociatividade.csproj" Id="e7a500c0-2132-463a-b98e-badd8304104e" />
-  <Project Path="TipoDateTime/TipoDateTime.csproj" />
-  <Project Path="TiposdeDados4/TiposdeDados4.csproj" />
+  <Project Path="FormataçãoDeSaídaDeDados/04_SaídaDeDados.csproj" />
+  <Project Path="Incremento_Drecremento/12_Incremento_Drecremento.csproj" Id="05b23694-1c9d-4971-ad4e-c8406e56868b" />
+  <Project Path="InferênciaDeTipos/09_InferênciaDeTipos.csproj" Id="6effc3cf-0502-40c3-a7d6-fc2d4ba2bb34" />
+  <Project Path="NullabeType/03_NullabeType.csproj" />
+  <Project Path="NullableReferenceType/16_NullableReferenceType.csproj" Id="42cecd84-c556-4ecb-be0c-f82d86327253" />
+  <Project Path="OperadoresDeAtribuição/10_OperadoresDeAtribuição.csproj" Id="83972c6e-cf46-4f92-b7e0-b51f74193161" />
+  <Project Path="OperadoresLógicos/14_OperadoresLógicos.csproj" Id="35f03fb9-5a1f-4389-a799-c35bc48ce436" />
+  <Project Path="OperadoresRelacionais/13_OperadoresRelacionais.csproj" Id="20ab4c16-6e71-48a0-88b7-a16c190821cf" />
+  <Project Path="OperadorTernario/17_OperadorTernario.csproj" Id="c8fcb5c4-d276-44c4-be3f-6ee8b8fb60ba" />
+  <Project Path="PrecedênciaEAssociatividade/15_PrecedênciaEAssociatividade.csproj" Id="e7a500c0-2132-463a-b98e-badd8304104e" />
+  <Project Path="TipoDateTime/02_DadosTipoDateTime.csproj" />
+  <Project Path="TiposdeDados4/01_DadosTipoReferencia.csproj" />
 </Solution>

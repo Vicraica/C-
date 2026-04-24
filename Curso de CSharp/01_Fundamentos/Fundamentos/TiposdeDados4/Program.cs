@@ -6,11 +6,11 @@ Console.WriteLine();
 Console.WriteLine("Este é o tipo string");
 string nome = "Victória";
 Console.WriteLine(nome);
-//* O tipo string é imutável, logo sempre que precisar realizar
-//uma mudança de valor a tribuido a variavel do tipo string,
-//ele criará outro espaço na memória para guardar o novo valor e não subtituir.*//
 
-//Quando se precisa realizar mudanças recorrentes em uma string a melhor opção é 'stringbuilder', porém ele é uma classe e não uma viriável.//
+/* O tipo string é imutável, logo sempre que precisar realizar uma mudança de valor a tribuido a variavel do tipo string,
+ele criará outro espaço na memória para guardar o novo valor e não subtituir.*/
+//Quando se precisa realizar mudanças recorrentes em uma string a melhor opção é 'stringbuilder', porém ele é uma classe e não uma viriável.
+
 Console.WriteLine();
 Console.WriteLine("Este é o tipo Object");
 object nome1 = "Raica";
@@ -39,8 +39,8 @@ Console.WriteLine(altura2);
 Console.WriteLine(letra3);
 Console.WriteLine(letra4);
 
-//* Os tipos object e dynamic são bem parecidos e suportam todos os tipos de dados pois object é a base das variáveis.
-//  A diferença é o tempo da verificação: o object é checado pelo compilador (exige cast), enquanto o dynamic só é
-//  checado na execução (ignora o compilador).*//
+/* Os tipos object e dynamic são bem parecidos e suportam todos os tipos de dados pois object é a base das variáveis.
+A diferença é o tempo da verificação: o object é checado pelo compilador (exige cast), enquanto o dynamic só é
+checado na execução (ignora o compilador).*/
 
 Console.ReadLine();
