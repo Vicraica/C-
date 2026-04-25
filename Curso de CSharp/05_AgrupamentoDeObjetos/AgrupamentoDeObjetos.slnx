@@ -1,6 +1,6 @@
 <Solution>
-  <Project Path="2.Array/2.Array.csproj" />
-  <Project Path="3.Array/3.Array.csproj" />
-  <Project Path="4.ClassArray/4.ClassArray.csproj" />
-  <Project Path="AgrupamentoDeObjetos/1.Array.csproj" />
+  <Project Path="01_AgrupamentoDeObjetos/01_Array.csproj" />
+  <Project Path="02_ArrayII/02_Array.csproj" />
+  <Project Path="03_ArrayIII/03_Array.csproj" />
+  <Project Path="04_ClassArray/04_ClassArray.csproj" />
 </Solution>
