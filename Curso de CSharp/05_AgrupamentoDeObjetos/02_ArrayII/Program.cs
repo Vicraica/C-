@@ -1,9 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Array + foreach \n");
+﻿Console.WriteLine("Array + laço for\n");
 
-string[] letras = new string[5] { "A", "B", "C", "D", "E" };
+int[] num = new int[5] {1,2,3,4,5};
 
-foreach (var L in letras)
+for (int i = 0; i < num.Length; i++)
 {
-    Console.WriteLine(L);
+    Console.WriteLine($"elemento de indice [{i}]: {num[i]}");
 }
+
+

@@ -1,0 +1,24 @@
+<Solution>
+  <Project Path="Fundamentos/01_TiposDeDados/TiposDeDados1/TiposDeDados1.csproj" />
+  <Project Path="Fundamentos/02_TiposDeDados/TiposDeDados2.csproj" />
+  <Project Path="Fundamentos/03_TiposDeDados/TiposDeDados3.csproj" />
+  <Project Path="Fundamentos/04_TiposdeDados/01_DadosTipoReferencia.csproj" />
+  <Project Path="Fundamentos/05_TipoDateTime/02_DadosTipoDateTime.csproj" />
+  <Project Path="Fundamentos/06_NullabeType/03_NullabeType.csproj" />
+  <Project Path="Fundamentos/07_SaídaDeDados/04_SaídaDeDados.csproj" />
+  <Project Path="Fundamentos/08_ConversaoDeTipos/05_ConversãoDeTipos.csproj" />
+  <Project Path="Fundamentos/09_ConversaoDeTiposII/06_ConversaoDeTiposII.csproj" />
+  <Project Path="Fundamentos/10_EntradaDeDados/07_EntradaDeDados.csproj" />
+  <Project Path="Fundamentos/11_OperadoresAritmeticos/08_OperadoresAritmeticos.csproj" />
+  <Project Path="Fundamentos/12_InferenciaDeTipos/09_InferênciaDeTipos.csproj" />
+  <Project Path="Fundamentos/13_OperadoresDeAtribuiacao/10_OperadoresDeAtribuição.csproj" />
+  <Project Path="Fundamentos/14_Constantes/11_Constantes.csproj" />
+  <Project Path="Fundamentos/15_IncrementoEDrecremento/12_Incremento_Drecremento.csproj" />
+  <Project Path="Fundamentos/16_OperadoresRelacionais/13_OperadoresRelacionais.csproj" />
+  <Project Path="Fundamentos/17_OperadoresLógicos/14_OperadoresLógicos.csproj" />
+  <Project Path="Fundamentos/18_PrecedênciaEAssociatividade/15_PrecedênciaEAssociatividade.csproj" />
+  <Project Path="Fundamentos/19_NullableReferenceType/16_NullableReferenceType.csproj" />
+  <Project Path="Fundamentos/20_OperadorTernario/17_OperadorTernario.csproj" />
+  <Project Path="Fundamentos/ExercicioFase1/ExercícioFase1.csproj" />
+  <Project Path="Fundamentos/ExercicioFase2/ExercicioFase2.csproj" />
+</Solution>
